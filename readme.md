@@ -12,4 +12,4 @@ Technology Used:
 - JAVASCRIPT
 
 
-Live Demo: [Link]()
+Live Demo: [Link](https://qr-code-generator-appp.netlify.app/)
