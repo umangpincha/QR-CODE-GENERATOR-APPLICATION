@@ -2,7 +2,7 @@
 
 QR code generator Application
 
-![thumbnail](./Image/Project.png)
+![thumbnail](./thumbnail.PNG)
 
 It took me around 3 hours to create this application.
 
